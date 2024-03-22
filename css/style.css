@@ -194,6 +194,7 @@
     overflow: visible;
     width: 190px;
     height: 254px;
+    background-color: #8e7bff;
   }
   
   .content {
@@ -368,3 +369,7 @@
     p{
       font-family: Arial, Helvetica, sans-serif;
     }
+    .white-text{
+      color: #fff;
+    }
+    
